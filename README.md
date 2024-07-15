@@ -54,13 +54,13 @@
 
 ## 최종 프로젝트 팀
 
-|  NO   | 팀명        | 프로젝트명   | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
-| :---: | ----------- | ------------ | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
-|   1   |             | 페럴림픽     | PC     | 김채린 | 박서진, 조민선, 김채린, 김나현 | [링크](https://trello.com/b/2DIJJxpU/🧑🏻🦽➡%EF%B8%8F패럴림픽) |
-|   2   |             | FIXPIKU      | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
-|   3   |             | IDO          | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
-|   4   | The Delvers | Rogue        | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
-|   5   |             | Soul & Rogue | PC     |        | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
+|  NO   | 팀명  | 프로젝트명   | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
+| :---: | ----- | ------------ | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
+|   1   |       | 페럴림픽     | PC     | 김채린 | 박서진, 조민선, 김채린, 김나현 | [링크](https://trello.com/b/2DIJJxpU/🧑🏻🦽➡%EF%B8%8F패럴림픽) |
+|   2   |       | FIXPIKU      | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
+|   3   |       | IDO          | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
+|   4   | Rogue | The Delvers  | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
+|   5   |       | Soul & Rogue | PC     |        | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
  
 
 
