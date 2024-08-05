@@ -60,7 +60,7 @@
 |   2   | 일석이조    | FIXPIKU          | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
 |   3   | 신나는 유리 | Moggle Advanture | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
 |   4   | Rogue       | The Delvers      | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
-|   5   |             | Soul & Rogue     | PC     |        | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
+|   5   |             | Soul & Rogue     | PC     | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
  
 
 
@@ -75,7 +75,7 @@
 | **알파 테스트**   |                               |
 | **베타 테스트**   | 08/08(월)                     |
 | **발표 리허설**   | 08/13                         |
-| **시연 및 발표**  | 08/20 (일정 미정)             |
+| **시연 및 발표**  | 08/20                         |
 
 - 프로젝트의 목적
   - 교육기간동안 습득한 게임 개발 역량을 종합적으로 사용한 최종 프로젝트로서 전반적인 개발 과정을 이해하고 다양한 시행착오를 통해 개개인의 개발 역량을 강화한다.
@@ -261,4 +261,4 @@ git push origin develop
 |   3   | GreenTea    | 무사히 출근    | VR     | 전지은 | 전지은, 이서랑              |
 |   4   | NaN         | Dungeon Master | VR     | 김승현 | 성진기,이상인,박채림,김승현 |
 |   5   | KGJ         | Zero Gravity   | VR     | 김길주 | 김길주                      |
- --> -->
+ --> 
