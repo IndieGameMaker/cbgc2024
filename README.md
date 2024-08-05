@@ -57,7 +57,7 @@
 |  NO   | 팀명        | 프로젝트명       | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
 | :---: | ----------- | ---------------- | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
 |   1   | 김좀죠바    | 패럴림픽         | PC     | 김채린 | 박서진, 조민선, 김채린, 김나현 | [링크](https://trello.com/b/2DIJJxpU/🧑🏻🦽➡%EF%B8%8F패럴림픽) |
-|   2   |             | FIXPIKU          | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
+|   2   | 일석이조    | FIXPIKU          | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
 |   3   | 신나는 유리 | Moggle Advanture | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
 |   4   | Rogue       | The Delvers      | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
 |   5   |             | Soul & Rogue     | PC     |        | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
@@ -197,14 +197,14 @@ git push origin develop
 ```
 ---
 
-<!-- 
+
 ### 프로젝트 발표 문서 작성
 
-- [발표문서 공식 탬플릿](https://docs.google.com/presentation/d/1HYUKU_M5ALghtoDSjGQGM6ADzBeRadT5/edit?usp=sharing&ouid=109306707304462513227&rtpof=true&sd=true)
+<!-- - [발표문서 공식 탬플릿](https://docs.google.com/presentation/d/1HYUKU_M5ALghtoDSjGQGM6ADzBeRadT5/edit?usp=sharing&ouid=109306707304462513227&rtpof=true&sd=true) -->
 
-- 발표문서는 11월 06일까지(1차 리뷰전) 아래 구글 드라이브에 업로드해주세요. (별도로 사용한 폰트가 있다면 같이 업로드)
+- 발표문서는 08월 12일까지(1차 리뷰전) 아래 구글 드라이브에 업로드해주세요. (별도로 사용한 폰트가 있다면 같이 업로드)
 
-- [발표문서 업로드](https://drive.google.com/drive/folders/1NE5QTQISsadFqUXtCXZ77q3PfxwcffSl?usp=share_link)
+- [발표문서 업로드](https://drive.google.com/drive/folders/19AiQZ8KDmeSyvAuRWX69lihf4Twg_q6B?usp=share_link)
 - PPT로 작성
 
 ### 발표 문서 작성
@@ -215,12 +215,13 @@ git push origin develop
    - 개발 구성원 소개 및 담당 업무
    - 개발 환경
      - 개발 툴 : Unity, Blender, PhotoShop, ...
-     - 소스 관리 방법(기법) : Github, Trello, Slack, Collaborator, Google Docs, ...
-     - 사용 하드웨어 : Quest, AR Device
+     - 소스 관리 방법(기법) : Github, Trello, Slack, Google Docs, ...
+     - 사용 하드웨어 : PC, Quest, 아두이노, ...
    - 개발 일정별 진행상황 : [간트차트](https://ko.wikipedia.org/wiki/간트_차트) 또는 엑셀
    - 구현한 주요 기능
      - **짧은 동영상 자료**(mp4)를 첨부 (Animated GIF 사용금지)
    - 개발 후기 : 아쉬웠던 점, 느낀 점, 향후 구현하고 싶은 기능등을 기술.
+   - Full 시연영상 (심사 및 제출용)
 
 #### 2. 발표문서 작성시 피해야 할 내용 또는 작성 방식
 
@@ -233,7 +234,7 @@ git push origin develop
 
 ## 최종 발표
 
-### 리허설 순서
+<!-- ### 리허설 순서
 
 |  NO   | 팀명        | 프로젝트명     | 플랫폼 | 발표자 | 팀장                        | 팀원 |
 | :---: | ----------- | -------------- | ------ | ------ | --------------------------- | ---- |
@@ -241,22 +242,17 @@ git push origin develop
 |   2   | GreenTea    | 무사히 출근    | VR     | 전지은 | 전지은, 이서랑              |
 |   3   | KGJ         | Zero Gravity   | VR     | 김길주 | 김길주                      |
 |   4   | M&H         | VR Cart        | VR     | 허준원 | 문성군 , 허준원             |
-|   5   | Animal Town | Wedding Road   | VR     | 김진희 | 심재근, 김진희              |
+|   5   | Animal Town | Wedding Road   | VR     | 김진희 | 심재근, 김진희              | -->  |
 
 
 ### 발표 일정
-- 시연 및 발표 : 2023-11-10
-- 시연 시간 : 12:30 ~ 14:30
-- 발표 장소 : 나폴리
-- 발표 시간 : 14:30 ~ 16:30
+- 시연 및 발표 : 2024-08-20
+- 시연 시간 : 14:00 ~ 15:00
+- 발표 장소 : 1층 콘텐츠 코리아랩 세미나실
+- 발표회  : 15:00 ~ 16:00 (1층 영상 상영관)
+- 시상 및 기념촬영 : 16:00 ~ 16:10
 
-### 발표 후 일정 
-  - 기념 사진 촬영
-  - 수료증 수여
-  - 시연장소 정리
-  - 노트북 반납
-
-### 발표 순서
+<!-- ### 발표 순서
 
 |  NO   | 팀명        | 프로젝트명     | 플랫폼 | 발표자 | 팀원                        |
 | :---: | ----------- | -------------- | ------ | ------ | --------------------------- |
@@ -265,4 +261,4 @@ git push origin develop
 |   3   | GreenTea    | 무사히 출근    | VR     | 전지은 | 전지은, 이서랑              |
 |   4   | NaN         | Dungeon Master | VR     | 김승현 | 성진기,이상인,박채림,김승현 |
 |   5   | KGJ         | Zero Gravity   | VR     | 김길주 | 김길주                      |
- -->
+ --> -->
