@@ -60,7 +60,7 @@
 |   2   | 일석이조    | FIXPIKU          | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
 |   3   | 신나는 유리 | Moggle Advanture | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
 |   4   | Rogue       | The Delvers      | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
-|   5   |             | Soul & Rogue     | PC     | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
+|   5   | NPC            | Soul & Rogue     | PC     | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
  
 
 
