@@ -60,7 +60,7 @@
 |   2   | 일석이조    | FIXPIKU          | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
 |   3   | 신나는 유리 | Moggle Advanture | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
 |   4   | Rogue       | The Delvers      | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
-|   5   | NPC            | Soul & Rogue     | PC     | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
+|   5   | NPC         | Soul & Rogue     | PC     | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
  
 
 
@@ -252,13 +252,12 @@ git push origin develop
 - 발표회  : 14:00 ~ 17:00 (1층 영상 상영관)
 - 시상 및 기념촬영 : 16:00 ~ 16:10
 
-<!-- ### 발표 순서
+## 최종 프로젝트 발표순서
 
-|  NO   | 팀명        | 프로젝트명     | 플랫폼 | 발표자 | 팀원                        |
-| :---: | ----------- | -------------- | ------ | ------ | --------------------------- |
-|   1   | M&H         | VR Cart        | VR     | 허준원 | 문성군 , 허준원             |
-|   2   | Animal Town | Wedding Road   | VR     | 김진희 | 심재근, 김진희              |
-|   3   | GreenTea    | 무사히 출근    | VR     | 전지은 | 전지은, 이서랑              |
-|   4   | NaN         | Dungeon Master | VR     | 김승현 | 성진기,이상인,박채림,김승현 |
-|   5   | KGJ         | Zero Gravity   | VR     | 김길주 | 김길주                      |
- --> 
+|  NO   | 팀명        | 프로젝트명       | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
+| :---: | ----------- | ---------------- | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
+|   1   | Rogue       | The Delvers      | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
+|   2   | 일석이조    | FIXPIKU          | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
+|   3   | NPC         | Soul & Rogue     | PC     | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
+|   4   | 신나는 유리 | Moggle Advanture | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
+|   5   | 김좀죠바    | 패럴림픽         | PC     | 김채린 | 박서진, 조민선, 김채린, 김나현 | [링크](https://trello.com/b/2DIJJxpU/🧑🏻🦽➡%EF%B8%8F패럴림픽) |
