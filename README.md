@@ -254,10 +254,10 @@ git push origin develop
 
 ## 최종 프로젝트 발표순서
 
-|  NO   | 팀명        | 프로젝트명       | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
-| :---: | ----------- | ---------------- | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
-|   1   | Rogue       | The Delvers      | PC     | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
-|   2   | 일석이조    | FIXPIKU          | PC     | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
-|   3   | NPC         | Soul & Rogue     | PC     | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
-|   4   | 신나는 유리 | Moggle Advanture | PC     | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
-|   5   | 김좀죠바    | 패럴림픽         | PC     | 김채린 | 박서진, 조민선, 김채린, 김나현 | [링크](https://trello.com/b/2DIJJxpU/🧑🏻🦽➡%EF%B8%8F패럴림픽) |
+|  NO   | 팀명        | 프로젝트명       | 플랫폼 | 발표자         | 팀장   | 팀원                           | 트렐로                                                     |
+| :---: | ----------- | ---------------- | ------ | -------------- | ------ | ------------------------------ | ---------------------------------------------------------- |
+|   1   | Rogue       | The Delvers      | PC     | 홍은성         | 홍은성 | 김승민, 홍은성, 이민우         | [링크](https://trello.com/b/hMUJJWL9/2024cbgcrogue)        |
+|   2   | 일석이조    | FIXPIKU          | PC     | 신민기         | 신민기 | 장승민, 배민혁, 신민기         | [링크](https://trello.com/b/l7vukrMV/fixpiku)              |
+|   3   | NPC         | Soul & Rogue     | PC     | 최종혁         | 최재원 | 박종혁, 최재원, 나기용         | [링크](https://trello.com/b/0BlqCgAg/soulrogue)            |
+|   4   | 신나는 유리 | Moggle Advanture | PC     | 최빛나         | 홍유리 | 최빛나, 홍유리, 신윤섭         | [링크](https://trello.com/b/snDiMVv2/ido)                  |
+|   5   | 김좀죠바    | 패럴림픽         | PC     | 김채린, 김나현 | 김채린 | 박서진, 조민선, 김채린, 김나현 | [링크](https://trello.com/b/2DIJJxpU/🧑🏻🦽➡%EF%B8%8F패럴림픽) |
